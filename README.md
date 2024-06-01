@@ -77,7 +77,7 @@ The repository for this project is named [deep-learning-challenge](https://githu
 ## Resources
 
 - Documentation: TensorFlow, Keras, pandas, scikit-learn
-- Community Help: StackOverflow
+- Community Help: StackOverflow, tutoring
 - Previous Assignments: Data preprocessing, machine learning basics, neural networks
 
 ---
